@@ -33,7 +33,7 @@ p{
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: var(--cardBG);
-    height: 545px;
+    height: 555px;
     width: 345px;
     border-radius: 20px;
 }
@@ -87,8 +87,7 @@ color: var(--soft-blue);
     align-items: center;
     text-align: center;
         margin-top: 30px;
-            margin-bottom: 30px;
-
+        margin-bottom: 20px;
 }
 .cost img{
     margin-top: 0;
