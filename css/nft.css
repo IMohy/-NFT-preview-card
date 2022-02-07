@@ -87,6 +87,8 @@ color: var(--soft-blue);
     align-items: center;
     text-align: center;
         margin-top: 30px;
+            margin-bottom: 30px;
+
 }
 .cost img{
     margin-top: 0;
